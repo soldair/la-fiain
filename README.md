@@ -5,8 +5,7 @@ wild day / day's wild
 
 todo/list
 ==========
- - [ ] finish plumbing to "new pad"
- - [ ] name new pad
+ - lets use github issues to track tasks ----^
 
 documntation
 ============
